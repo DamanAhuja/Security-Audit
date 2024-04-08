@@ -28,3 +28,4 @@ Now the graph is generated succesfully, To view it -
 ```
 xdg-open MyContract.sol.png
 ```
+![graph](https://github.com/DamanAhuja/Security-Audit/assets/142963733/8a3a2ea4-0ffd-44d0-892f-33e8d16bd23a)
