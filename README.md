@@ -44,7 +44,7 @@ Enter the Root directory
 ```
 cd <"dir name">
 ```
-And run 
+And we then check the container's list
 ```
 sudo docker container ls
 ```
