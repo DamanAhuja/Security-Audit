@@ -29,3 +29,7 @@ Now the graph is generated succesfully, To view it -
 xdg-open MyContract.sol.png
 ```
 ![graph](https://github.com/DamanAhuja/Security-Audit/assets/142963733/8a3a2ea4-0ffd-44d0-892f-33e8d16bd23a)
+## Slither
+![image](https://github.com/DamanAhuja/Security-Audit/assets/142963733/646e473d-f291-460e-9072-243be21ade7b)
+![image](https://github.com/DamanAhuja/Security-Audit/assets/142963733/6fcd5d51-03ee-49b3-ae48-02c14dfdf1cb)
+
